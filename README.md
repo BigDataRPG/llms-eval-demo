@@ -157,7 +157,7 @@ set PYTHONPATH=%PYTHONPATH%;%cd%\src
 ### Start Phoenix Server
 
 ```bash
-phoenix start
+phoenix serve
 ```
 
 This will start the Phoenix server on http://localhost:6006
